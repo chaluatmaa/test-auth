@@ -17,3 +17,15 @@ The following environment variables are required:
 - PORT=8888
 - MONGO_URI=yourmongouri
 - JWT_SECRET=supersecretkey
+
+
+## To run the client, use the  following command:
+- ```cd client```
+- ```npm i```
+- ```npm run dev```
+
+
+## To run the server, use the  following command:
+- ``` cd server```
+- ``` npm i```
+- ``` node server.js```
